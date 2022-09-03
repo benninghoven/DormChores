@@ -1,0 +1,19 @@
+{
+    "seed": 420,
+    "currentCleanerIndex": 0,
+    "users" : [ 
+		"Bryan",
+		"Paolo",
+		"Michael",
+		"Devin",
+		"Kyle",
+		"Dominic",
+		"Kevin",
+		"Anthony"
+    ],
+
+    "trashcleaner": "",
+    "bath1cleaner": "",
+    "bath2cleaner": ""
+}
+
